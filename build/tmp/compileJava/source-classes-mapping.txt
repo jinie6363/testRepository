@@ -1,0 +1,2 @@
+testPackage/testClass.java
+ testPackage.testClass
